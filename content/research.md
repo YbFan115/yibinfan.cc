@@ -7,6 +7,7 @@ My research has two lines: (1) the politicization on social media and digital pl
 ### Everything to do with Politics: Examining Politicization in Online Communities
 
 - Barbara Warnick Dissertation Proposal Award: https://com.uw.edu/ma-phd/funding-and-award-opportunities/research-funding/
+- Fritz International Studies Fellowship: https://grad.uw.edu/funding_posts/international-research-fellowships/
 - Humane Studies Fellowship: https://www.theihs.org/blog/funding-type/humane-studies-fellowship/
 
 ## Research Lines
