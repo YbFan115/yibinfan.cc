@@ -6,7 +6,7 @@ yibin115@uw.edu
 
 ## Profiles
 
-- Google Scholar: add profile URL when ready
+- Google Scholar: https://scholar.google.com/citations?user=-ZSV1sAAAAAJ&hl=en&oi=sra
 - ORCID: add profile URL when ready
 - GitHub: add profile URL when ready
 - LinkedIn: add profile URL when ready
