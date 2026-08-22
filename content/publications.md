@@ -6,24 +6,34 @@
 
 - Yibin Fan*, Benjamin Mako Hill, & Patricia Moy. (2026). "Unintended politics: Opinion expression and incivility in incidental political discussion." [New Media & Society](https://journals.sagepub.com/home/nms). https://doi.org/10.1177/14614448261441875
   - PDF: https://journals.sagepub.com/doi/pdf/10.1177/14614448261441875?casa_token=1-ZnGrfTjEoAAAAA:AifNyIRY7ep2owa5KEr0ajN2B7ABjRa7L96bX6fsLp5TvKdHX-in_V_Z3XCJmudTWeqTJ_bSWKwmBw
-  - This article shows how political expression and incivility can emerge within incidental discussion contexts, extending political communication research beyond explicitly political spaces.
-  - *Corresponding author.
+  - This article shows political discussion in non-political digital contexts is even more likely to contain policy opinion expression than in explicitly political contexts, while the level of incivility does not significantly differ.
+- Yibin Fan* & Wang-Hai Tucker. (2026). "“TikTok refugees”: motivations and political correlates of international platform migration." [Journal of Information Technology & Politics](https://www.tandfonline.com/journals/witp20). https://doi.org/10.1080/19331681.2026.2701762
+  - PDF: https://www.tandfonline.com/doi/pdf/10.1080/19331681.2026.2701762
+  - This article shows international platform migration has salient political motivations, and is associated with lower levels of political and media trust.
 
-### Revision And Resubmission
+### Conditionally Accepted
 
-- Yufan Guo & Yibin Fan*. (2026). "The Politics of the Non-Political: A Scoping Review (2004-2024)." Minor revision and resubmit, [Political Communication](https://www.tandfonline.com/journals/upcp20).
-  - This review maps how scholars have conceptualized non-political digital contexts and clarifies when everyday communication becomes politically meaningful.
-- Yibin Fan* & Wang-Hai Tucker. (2026). "Motivations and the Political Correlates of Platform Migration in International Contexts: The Case of TikTok Refugees." Major revision and resubmit, [Journal of Information Technology & Politics](https://www.tandfonline.com/journals/witp20).
-  - This study explains platform migration as both a media-choice process and a politically structured response to changing digital environments.
-- Yibin Fan*. (2026). "Political Talk in Non-Political Digital Spaces: A Conceptual Review." Major revision and resubmit, [The Communication Review](https://www.tandfonline.com/journals/gcrv20).
-  - This conceptual review develops a framework for identifying and studying political talk when it appears outside formal political forums.
-  - *Corresponding author for all listed journal publications.
+- Yufan Guo† & Yibin Fan*†. "The politics of the non-political: A conceptual review." [Political Communication](https://www.tandfonline.com/journals/upcp20).
+  - This review traces how theorists and empirical researchers in political science and communication have conceptualized what is viewed as non-political.
+
+### Major Revision And Resubmission
+
+- Yibin Fan*. (2026). "Political talk in non-political digital spaces." [The Communication Review](https://www.tandfonline.com/journals/gcrv20).
+  - Preprint: https://osf.io/n98eu
+  - This study reviews work on political talk in non-political digital spaces across post-positivist, interpretivist, and critical traditions.
+- Yibin Fan*. (2026). "Linking media effects and political talk: A theoretical review." [Javnost - The Public](https://www.tandfonline.com/journals/rjav20).
+  - Preprint: https://osf.io/zf78v
+  - This theoretical review connects media effects research with scholarship on political talk.
+- Yibin Fan*. (2026). "Local-oriented online communities as urban communication infrastructure: Evidence from 128 city communities in North America." [Digital Journalism](https://www.tandfonline.com/journals/rdij20).
+  - Preprint: https://osf.io/nvbqu
+  - This article examines local-oriented online communities as urban communication infrastructure.
 
 ## Under Review
 
-- Wang-Hai Tucker & Yibin Fan. (2026). "Behind the Kidney-harvest (Ga Yaozi) Panic: Thailand-Focused Content Creators and the Spillover of Geopolitical Discourse on Chinese Platforms." Under review, [Media, Culture & Society](https://journals.sagepub.com/home/mcs).
-- Yibin Fan. (2026). "Local-Oriented Online Communities as Urban Communication Infrastructure: Evidence from 128 City Communities in North America." Under review, [Information, Communication & Society](https://www.tandfonline.com/journals/rics20).
+- Wang-Hai Tucker & Yibin Fan. (2026). "Behind the Kidney-harvest (Ga Yaozi) Panic: Thailand-Focused Content Creators and the Spillover of Geopolitical Discourse on Chinese Platforms." Under review, [International Journal of Communication](https://ijoc.org/).
 
 ## Under Preparation
 
 - Yibin Fan, Nathan TeBlunthuis, & Benjamin Mako Hill. (2026). "Multilevel Community Ecology: How Relationships Between Digital Groups Are Stronger at Coarser Levels of Analysis." Manuscript writing.
+
+* Corresponding author. † Equal contribution.

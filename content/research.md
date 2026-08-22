@@ -1,6 +1,6 @@
 # Research Content
 
-My research has two lines: (1) the politicization on social media and digital platforms; and (2) the organizing dynamics of online communities in the digital ecosystem. They are often intersected with eacho other, such as membership overlap between political and non-political communities can fuel politicization, and international platform migration can be a way of alternative political expression. I have used computational and AI-assisted methods, survey, content analysis, and interviews to study online communities on various platforms like Reddit, RedNote, TikTok, etc. My work has been published in journals including [New Media & Society](https://journals.sagepub.com/home/nms).
+My research has two lines: (1) the politicization on social media and digital platforms; and (2) the organizing dynamics of online communities in the digital ecosystem. They often intersect with each other, such as when membership overlap between political and non-political communities fuels politicization, or when international platform migration becomes a form of alternative political expression. I use computational and AI-assisted methods, surveys, content analysis, and interviews to study online communities on platforms such as Reddit, RedNote, and TikTok. My work has been published or accepted in journals including [New Media & Society](https://journals.sagepub.com/home/nms), [Political Communication](https://www.tandfonline.com/journals/upcp20), and [Journal of Information Technology & Politics](https://www.tandfonline.com/journals/witp20).
 
 ## Dissertation
 
@@ -26,17 +26,20 @@ This line of work studies populations of online communities, ecological relation
 
 - Yibin Fan*, Benjamin Mako Hill, & Patricia Moy. (2026). "Unintended politics: Opinion expression and incivility in incidental political discussion." [New Media & Society](https://journals.sagepub.com/home/nms). https://doi.org/10.1177/14614448261441875
   - PDF: https://journals.sagepub.com/doi/pdf/10.1177/14614448261441875?casa_token=1-ZnGrfTjEoAAAAA:AifNyIRY7ep2owa5KEr0ajN2B7ABjRa7L96bX6fsLp5TvKdHX-in_V_Z3XCJmudTWeqTJ_bSWKwmBw
-  - *Corresponding author.
+- Yibin Fan* & Wang-Hai Tucker. (2026). "“TikTok refugees”: motivations and political correlates of international platform migration." [Journal of Information Technology & Politics](https://www.tandfonline.com/journals/witp20). https://doi.org/10.1080/19331681.2026.2701762
+  - PDF: https://www.tandfonline.com/doi/pdf/10.1080/19331681.2026.2701762
 
-### Revision And Resubmission
+### Conditionally Accepted
 
-- Yufan Guo & Yibin Fan*. (2026). "The Politics of the Non-Political: A Scoping Review (2004-2024)." Minor revision and resubmit, [Political Communication](https://www.tandfonline.com/journals/upcp20).
-  - This review maps how scholars have conceptualized non-political digital contexts and clarifies when everyday communication becomes politically meaningful.
-- Yibin Fan* & Wang-Hai Tucker. (2026). "Motivations and the Political Correlates of Platform Migration in International Contexts: The Case of TikTok Refugees." Major revision and resubmit, [Journal of Information Technology & Politics](https://www.tandfonline.com/journals/witp20).
-  - This study explains platform migration as both a media-choice process and a politically structured response to changing digital environments.
-- Yibin Fan*. (2026). "Political Talk in Non-Political Digital Spaces: A Conceptual Review." Major revision and resubmit, [The Communication Review](https://www.tandfonline.com/journals/gcrv20).
-  - This conceptual review develops a framework for identifying and studying political talk when it appears outside formal political forums.
-  - *Corresponding author for all listed journal publications.
+- Yufan Guo† & Yibin Fan*†. "The politics of the non-political: A conceptual review." [Political Communication](https://www.tandfonline.com/journals/upcp20).
+
+### Major Revision And Resubmission
+
+- Yibin Fan*. (2026). "Political talk in non-political digital spaces." [The Communication Review](https://www.tandfonline.com/journals/gcrv20). Preprint: https://osf.io/n98eu
+- Yibin Fan*. (2026). "Linking media effects and political talk: A theoretical review." [Javnost - The Public](https://www.tandfonline.com/journals/rjav20). Preprint: https://osf.io/zf78v
+- Yibin Fan*. (2026). "Local-oriented online communities as urban communication infrastructure: Evidence from 128 city communities in North America." [Digital Journalism](https://www.tandfonline.com/journals/rdij20). Preprint: https://osf.io/nvbqu
+
+* Corresponding author. † Equal contribution.
 
 ## Refereed Conference Presentations
 
