@@ -14,7 +14,7 @@ Yibin Fan is expected to graduate in Spring 2027 with a PhD in Communication fro
 
 ## Materials
 
-- CV
+- CV available upon request
 - Research statement
 - Teaching statement
 - Diversity/mentoring/service statement

@@ -21,8 +21,9 @@ My teaching is grounded in communication, technology, politics, public speaking,
 
 ### The Business of Media in the Digital Age
 
-- Term: Summer 2026 planned
+- Term: Summer 2026
 - Institution: University of Washington Department of Communication
+- Syllabus: https://wiki.communitydata.science/Business_of_Media_in_the_AI_and_Digital_Age_(UW_COM339_Summer_2026)
 
 ### Public Speaking
 

@@ -24,7 +24,7 @@ PhD student in Communication at the University of Washington. Expected graduatio
 
 ## Links
 
-- CV: `assets/cv/YF_CV_printed_ICA.pdf`
+- CV: Available upon request by email.
 - Email: `yibin115@uw.edu`
 - Google Scholar: https://scholar.google.com/citations?user=-ZSV1sAAAAAJ&hl=en&oi=sra
 - ORCID: add profile URL when ready
