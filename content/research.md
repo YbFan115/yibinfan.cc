@@ -1,6 +1,6 @@
 # Research Content
 
-My research has two lines: (1) the politicization on social media and digital platforms; and (2) the organizing dynamics of online communities in the digital ecosystem. They often intersect with each other, such as when membership overlap between political and non-political communities fuels politicization, or when international platform migration becomes a form of alternative political expression. I use computational and AI-assisted methods, surveys, content analysis, and interviews to study online communities on platforms such as Reddit, RedNote, and TikTok. My work has been published or accepted in journals including [New Media & Society](https://journals.sagepub.com/home/nms), [Political Communication](https://www.tandfonline.com/journals/upcp20), and [Journal of Information Technology & Politics](https://www.tandfonline.com/journals/witp20).
+My research has two lines: (1) the politicization on social media and digital platforms; and (2) the organizing dynamics of online communities in the digital ecosystem. They often intersect with each other, such as when membership overlap between political and non-political communities fuels politicization, or when international platform migration becomes a form of alternative political expression. I use computational and AI-assisted methods, surveys, content analysis, and interviews to study online communities on platforms such as Reddit, RedNote, and TikTok. My work has been published or accepted in journals including [New Media & Society](https://journals.sagepub.com/home/nms), [Political Communication](https://www.tandfonline.com/doi/full/10.1080/10584609.2026.2745844), and [Journal of Information Technology & Politics](https://www.tandfonline.com/journals/witp20).
 
 ## Dissertation
 
@@ -28,7 +28,7 @@ This line of work studies populations of online communities, ecological relation
   - PDF: https://journals.sagepub.com/doi/pdf/10.1177/14614448261441875?casa_token=1-ZnGrfTjEoAAAAA:AifNyIRY7ep2owa5KEr0ajN2B7ABjRa7L96bX6fsLp5TvKdHX-in_V_Z3XCJmudTWeqTJ_bSWKwmBw
 - Yibin Fan* & Wang-Hai Tucker. (2026). "“TikTok refugees”: motivations and political correlates of international platform migration." [Journal of Information Technology & Politics](https://www.tandfonline.com/journals/witp20). https://doi.org/10.1080/19331681.2026.2701762
   - PDF: https://www.tandfonline.com/doi/pdf/10.1080/19331681.2026.2701762
-- Yufan Guo† & Yibin Fan*†. (2026). "The politics of the non-political: A conceptual review." [Political Communication](https://www.tandfonline.com/journals/upcp20). https://doi.org/10.1080/10584609.2026.2745844
+- Yufan Guo† & Yibin Fan*†. (2026). "The politics of the non-political: A conceptual review." [Political Communication](https://www.tandfonline.com/doi/full/10.1080/10584609.2026.2745844). https://doi.org/10.1080/10584609.2026.2745844
   - PDF: https://www.tandfonline.com/doi/epdf/10.1080/10584609.2026.2745844
 
 ### Conditionally Accepted

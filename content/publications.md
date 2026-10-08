@@ -10,7 +10,7 @@
 - Yibin Fan* & Wang-Hai Tucker. (2026). "“TikTok refugees”: motivations and political correlates of international platform migration." [Journal of Information Technology & Politics](https://www.tandfonline.com/journals/witp20). https://doi.org/10.1080/19331681.2026.2701762
   - PDF: https://www.tandfonline.com/doi/pdf/10.1080/19331681.2026.2701762
   - This article shows international platform migration has salient political motivations, and is associated with lower levels of political and media trust.
-- Yufan Guo† & Yibin Fan*†. (2026). "The politics of the non-political: A conceptual review." [Political Communication](https://www.tandfonline.com/journals/upcp20). https://doi.org/10.1080/10584609.2026.2745844
+- Yufan Guo† & Yibin Fan*†. (2026). "The politics of the non-political: A conceptual review." [Political Communication](https://www.tandfonline.com/doi/full/10.1080/10584609.2026.2745844). https://doi.org/10.1080/10584609.2026.2745844
   - PDF: https://www.tandfonline.com/doi/epdf/10.1080/10584609.2026.2745844
   - This review connects political theory traditions with two decades of empirical research on the non-political, demonstrating the value of analyzing the non-political for theories of politicization.
 
